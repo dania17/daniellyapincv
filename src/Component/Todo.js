@@ -1,5 +1,5 @@
 import React from "react";
-import daniel from "./daniel.jpg"; // gives image path
+import daniel from "./daniel.jpg"; 
 
 function Todo(){
     return(
