@@ -132,19 +132,19 @@
     cursor: pointer;
     pointer-events: none;
   }
-    .main {
-     width: 100%;
-     height: 100vh;
-     box-sizing: border-box;
-      padding: 15px 20px 20px;
-      border: dashed 4px #ffffff;
-      background-color:rgb(252, 252, 252);
+  main {
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+     padding: 15px 20px 20px;
+     border: dashed 4px #ffffff;
+     background-color:rgb(252, 252, 252);
 
-      display: flex;
-      align-items: center;
-      justify-content: center; 
-      text-align: center;
-    }
+     display: flex;
+     align-items: center;
+     justify-content: center; 
+     text-align: center;
+}
   /* Transition */
   /*
   .select:hover::after {
