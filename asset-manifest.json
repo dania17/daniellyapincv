@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/daniellyapincv/static/css/main.5f184888.chunk.css",
+    "main.js": "/daniellyapincv/static/js/main.72d3fd9e.chunk.js",
+    "main.js.map": "/daniellyapincv/static/js/main.72d3fd9e.chunk.js.map",
+    "runtime-main.js": "/daniellyapincv/static/js/runtime-main.16b1fad2.js",
+    "runtime-main.js.map": "/daniellyapincv/static/js/runtime-main.16b1fad2.js.map",
+    "static/js/2.062f883e.chunk.js": "/daniellyapincv/static/js/2.062f883e.chunk.js",
+    "static/js/2.062f883e.chunk.js.map": "/daniellyapincv/static/js/2.062f883e.chunk.js.map",
+    "static/js/3.200b9911.chunk.js": "/daniellyapincv/static/js/3.200b9911.chunk.js",
+    "static/js/3.200b9911.chunk.js.map": "/daniellyapincv/static/js/3.200b9911.chunk.js.map",
+    "index.html": "/daniellyapincv/index.html",
+    "static/css/main.5f184888.chunk.css.map": "/daniellyapincv/static/css/main.5f184888.chunk.css.map",
+    "static/js/2.062f883e.chunk.js.LICENSE.txt": "/daniellyapincv/static/js/2.062f883e.chunk.js.LICENSE.txt",
+    "static/media/daniel.33e89c2c.jpg": "/daniellyapincv/static/media/daniel.33e89c2c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16b1fad2.js",
+    "static/js/2.062f883e.chunk.js",
+    "static/css/main.5f184888.chunk.css",
+    "static/js/main.72d3fd9e.chunk.js"
+  ]
+}
