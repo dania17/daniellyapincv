@@ -13,10 +13,24 @@ function App() {
      
      
      </header>
+     
      <Todo />
      <main>
        <p>
+         <h1> Daniel Lyapin </h1>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
        <h1>Ich bin aktuell auf der Suche einen Praktikumsplatz</h1>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
      <br></br>
      <br></br>
      <br></br>
@@ -35,6 +49,10 @@ function App() {
      <h3>Familienstand: "ledig"</h3>
      <br></br>
      <h3>Staatsangehörigkeit: "portugiesisch"</h3>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
      <br></br>
      <br></br>
      </p>
